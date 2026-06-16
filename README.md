@@ -8,6 +8,12 @@ The dashboard was developed using Power BI and demonstrates data cleaning, trans
 
 ---
 
+## Business Problem
+
+Organizations need insights into salary trends, job satisfaction, and technology preferences within the data industry. This dashboard analyzes survey responses from data professionals to identify key trends that can support workforce planning, career decisions, and industry benchmarking.
+
+---
+
 ## Tools Used
 
 - Power BI
@@ -67,6 +73,17 @@ The raw dataset required several cleaning and transformation steps:
 
 ---
 
+## Project Structure
+
+├── Data Professional Survey Dashboard.pbix
+├── Power BI - Final Project.xlsx
+├── dashboard-overview.png
+├── salary-analysis.png
+├── language-analysis.png
+└── README.md
+
+---
+
 ## Dashboard Preview
 
 ### Dashboard Overview
@@ -107,4 +124,4 @@ The raw dataset required several cleaning and transformation steps:
 
 ## Key Outcome
 
-This project demonstrates an end-to-end Power BI workflow, from raw data preparation to interactive dashboard creation and business insight generation.
+This project transformed raw survey data into an interactive dashboard that highlights salary patterns, technology preferences, and professional satisfaction metrics. The dashboard enables stakeholders to quickly explore trends and make data-driven decisions.
